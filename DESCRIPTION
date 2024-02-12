@@ -1,0 +1,8 @@
+Package: BeepBoxR
+Type: Package
+Title: Beat Boxing With The BeepR Package
+Version: 0.1.0
+Authors@R: c(person("Matthew", "Moravec", email="matt.moravec222@gmail.com", role = "cre"))
+Description: Ever want to beat box with an R package, well this is how you can do it
+License: MIT
+Encoding: UTF-8

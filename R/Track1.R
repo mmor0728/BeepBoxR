@@ -1,0 +1,16 @@
+
+
+
+track1 <- function(numLoops) {
+  while(numLoops >0){
+    beepr::beep()
+    Sys.sleep(.25)
+    beepr::beep()
+    Sys.sleep(.25)
+    beepr::beep()
+    Sys.sleep(.25)
+    beepr::beep()
+    Sys.sleep(.5)
+    numLoops<-numLoops-1
+  }
+}
